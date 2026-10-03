@@ -1,0 +1,26 @@
+{
+	"flutter": {
+		"platforms": {
+			"android": {
+				"default": {
+					"projectId": "figura-advmblprog",
+					"appId": "1:124839381441:android:9691f56877274ef2cc8740",
+					"fileOutput": "android/app/google-services.json"
+				}
+			},
+			"dart": {
+				"lib/firebase_options.dart": {
+					"projectId": "figura-advmblprog",
+					"configurations": {
+						"android": "1:124839381441:android:9691f56877274ef2cc8740",
+						"ios": "1:124839381441:ios:0048a6295f98594acc8740",
+						"web": "1:124839381441:web:ea38f0303a9f8c3bcc8740"
+					}
+				}
+			}
+		}
+	},
+	"firestore": {
+		"rules": "firestore.rules"
+	}
+}

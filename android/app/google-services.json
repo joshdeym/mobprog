@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124839381441",
+    "project_id": "figura-advmblprog",
+    "storage_bucket": "figura-advmblprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124839381441:android:9691f56877274ef2cc8740",
+        "android_client_info": {
+          "package_name": "com.example.figura_labact2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfWVCnwEOLcVwz1j4zo-gpMvEvxnn9wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124839381441:android:ed20f34904a3545ecc8740",
+        "android_client_info": {
+          "package_name": "com.example.flutter_connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfWVCnwEOLcVwz1j4zo-gpMvEvxnn9wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
